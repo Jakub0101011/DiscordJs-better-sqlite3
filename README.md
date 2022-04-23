@@ -15,7 +15,7 @@ Zacznijmy od tego, co to jest wogóle ```better-sqlite3``` ?
 ```js
 npm install better-sqlite3
 ```
-> Musisz używać [Node.js](https://nodejs.org/en/) w wersji 10.20.1 lub nowszej. Gotowe pliki binarne są dostępne dla wersji LTS. Jeśli masz problemy z instalacją, zapoznaj się z poradnikiem [rozwiązywania problemów]().
+> Musisz używać [Node.js](https://nodejs.org/en/) w wersji 10.20.1 lub nowszej. Gotowe pliki binarne są dostępne dla wersji LTS. Jeśli masz problemy z instalacją, zapoznaj się z poradnikiem [rozwiązywania problemów](https://github.com/JoshuaWise/better-sqlite3/blob/master/docs/troubleshooting.md).
 
 ## Użycie
 ```js
