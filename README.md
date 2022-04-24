@@ -67,6 +67,9 @@ db.prepare('DELETE FROM nazwa_tabeli WHERE id = ?').run(message.guild.id) 
 
 > Wszystkie powyższe przykłady są stosowane oraz kompatybilne do botów discord. [discord.js](https://discord.js.org/#/)
 
+## Dokumentacja
+- [Dokumentacja API](https://github.com/JoshuaWise/better-sqlite3/blob/master/docs/api.md)
+
 # 🇬🇧 English guide (Soon)
 
 ### Announcements of the guide
